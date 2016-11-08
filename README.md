@@ -19,9 +19,9 @@ This will be a Product-Review app, where customers `who wish to buy` / `who have
   
 # Initial Diagrams
 
-<img src='https://github.com/CodepathProject/Documents/blob/master/ProductReviewApp/WireFrame/ProductReview1.jpg' width='' />
+<img src='https://github.com/CodepathProject/Documents/blob/master/ProductReviewApp/WireFrame/ProductReview1.gif' width='' />
 
-<img src='https://github.com/CodepathProject/Documents/blob/master/ProductReviewApp/WireFrame/ProductReview2.jpg' width='' />
+<img src='https://github.com/CodepathProject/Documents/blob/master/ProductReviewApp/WireFrame/ProductReview2.gif' width='' />
 
 # Backend
 
